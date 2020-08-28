@@ -1,4 +1,4 @@
-![Header](./Header.png)
+![Header](Header.png)
 
 ### Hi there 👋
 
