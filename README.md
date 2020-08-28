@@ -1,3 +1,5 @@
+![Header](./Header.png)
+
 ### Hi there 👋
 
 I'm developing iOS (and macOS) apps since 2009 if you need help kicking-off your Startup with a fresh mobile app, or need someone to help you maintain and update your existing one. Feel free to [reach out to me](https://bearologics.com/contact).
