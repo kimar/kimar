@@ -1,4 +1,4 @@
-![Header](https://github.com/kimar/kimar/raw/master/Header.png)
+<!-- ![Header](https://github.com/kimar/kimar/raw/master/Header.png) -->
 
 ### Hi there 👋
 
