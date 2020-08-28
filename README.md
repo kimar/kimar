@@ -4,7 +4,7 @@ I'm developing iOS (and macOS) apps since 2009 if you need help kicking-off your
 
 I'm a CTO-as-a-Service and Founder & CEO of [@Bearologics](https://github.com/Bearologics).
 
-**#ios #macos #vapor #server #k8s #docker**
+**#ios #macos #swift #objective-c #vapor #server #k8s #docker**
 
 <!--
 **kimar/kimar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
