@@ -8,6 +8,8 @@ I'm a CTO-as-a-Service and Founder & CEO of [@Bearologics](https://github.com/Be
 
 **#ios #macos #swift #objective-c #vapor #server #k8s #docker**
 
+[![@kimar's Holopin board](https://holopin.io/api/user/board?user=kimar)](https://holopin.io/@kimar)
+
 <!--
 **kimar/kimar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
