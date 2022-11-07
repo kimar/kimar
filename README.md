@@ -6,6 +6,8 @@ I'm developing iOS (and macOS) apps since 2009 if you need help kicking-off your
 
 I'm a CTO-as-a-Service and Founder & CEO of [@Bearologics](https://github.com/Bearologics).
 
+Feel free to get in touch on <a rel="me" href="https://bearologics.social/@marcus">Mastodon</a>.
+
 **#ios #macos #swift #objective-c #vapor #server #k8s #docker**
 
 [![@kimar's Holopin board](https://holopin.io/api/user/board?user=kimar)](https://holopin.io/@kimar)
