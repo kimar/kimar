@@ -2,13 +2,15 @@
 
 ### Hi there 👋
 
-I'm developing iOS (and macOS) apps since 2009 if you need help kicking-off your Startup with a fresh mobile app, or need someone to help you maintain and update your existing one. Feel free to [reach out to me](https://bearologics.com/contact).
+I'm developing Full-Stack Mobile Products using iOS, Android and React Native App technologies. 
+
+If you need help kicking-off your Startup with a fresh mobile app, or need someone to help you maintain and update your existing one. Feel free to [reach out to me](https://www.bearologics.com/book-a-call).
 
 I'm a CTO-as-a-Service and Founder & CEO of [@Bearologics](https://github.com/Bearologics).
 
 Feel free to get in touch on <a rel="me" href="https://bearologics.social/@marcus">Mastodon</a> or via <a href="https://www.bearologics.com/contact">Email</a>.
 
-**#ios #macos #swift #objective-c #vapor #server #k8s #docker**
+**#ios #android #reactnative #swift #objective-c #kotlin #swiftui #jetpack #compose #server #k8s #docker**
 
 [![@kimar's Holopin board](https://holopin.io/api/user/board?user=kimar)](https://holopin.io/@kimar)
 
