@@ -2,11 +2,11 @@
 
 ### Hi there 👋
 
-I'm developing Full-Stack Mobile Products using iOS, Android and React Native App technologies. 
+I'm developing Full-Stack Mobile Products using iOS, Android, Flutter and React Native App technologies. 
 
 If you need help kicking-off your Startup with a fresh mobile app, or need someone to help you maintain and update your existing one. Feel free to [reach out to me](https://www.bearologics.com/book-a-call).
 
-I'm a CTO-as-a-Service and Founder & CEO of [@Bearologics](https://github.com/Bearologics).
+I'm a mobile app developer and Founder & CEO of [@Bearologics](https://github.com/Bearologics).
 
 Feel free to get in touch on <a rel="me" href="https://bearologics.social/@marcus">Mastodon</a> or via <a href="https://www.bearologics.com/contact">Email</a>.
 
